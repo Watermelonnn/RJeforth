@@ -22,9 +22,34 @@ RJeforth
 
 ### 安裝 Nodejs 系統
 
-+  下載 [nodejs](http://nodejs.org/download/ "下載 nodejs")
+下載 [nodejs](http://nodejs.org/download/ "下載 nodejs")
+
+安裝 nodejs
+
+測試 nodejs 版本
+
+'''
+C:\Users\Daniel>node -v
+v0.10.28
+
+C:\Users\Daniel>npm -v
+1.4.9
+'''
+
+安裝 node-dev 環境
+
+'''
+npm install -g node-dev
+'''
 
 ### 設定 Express Framework
+
+安裝 Express 環境
+
+'''
+npm install -g express@3.2.2
+'''
+
 
 ### 下載 R 軟體與設定必須的套件庫
 
